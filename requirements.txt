@@ -1,0 +1,4 @@
+tiktoken
+transformers
+pandas
+matplotlib
